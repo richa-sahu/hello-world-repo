@@ -1,2 +1,2 @@
 # hello-world-repo
-github-actions-demo
+- learning Github Actions
